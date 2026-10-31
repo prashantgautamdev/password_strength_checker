@@ -18,7 +18,7 @@ A beginner-friendly Python program that checks how strong a password is and tell
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-strength-checker.git
+   git clone https://github.com/prashantgautamdev/password-strength-checker.git
    ```
 2. Go into the folder:
    ```bash
