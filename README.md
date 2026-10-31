@@ -67,8 +67,8 @@ A password is "Strong" only if it has all four character types and is at least 8
 
 ## 👤 Author
 **Your Name**
-- GitHub: [@YOUR-USERNAME](https://github.com/peashangautamdev)
-- LinkedIn: [Your Name](https://linkedin.com/in/prashantcode)
+- GitHub: [prashantgautamdev](https://github.com/prashantgautamdev)
+- LinkedIn: [Prashant Gautam](https://www.linkedin.com/in/prashantcode/)
 
 ## 📄 License
 This project is open source and free to use for learning.
